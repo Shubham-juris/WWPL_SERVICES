@@ -81,15 +81,7 @@ const Footer = () => {
               </button>
             </form>
 
-            <div className="flex gap-4 text-xl text-fuchsia-400 mt-2">
-              <a
-                href="https://www.facebook.com/profile.php?id=100094103187320"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                <FaFacebookF />
-              </a>
-            </div>
+           
           </div>
         </div>
 
