@@ -517,6 +517,422 @@
     ],
     "apply_link": "Apply via recruitment platform on company’s job posting page"
   }
+},
+{
+  "job_title": "Driver Recruiter - AB",
+  "company": "iHaul Freight Ltd",
+  "overview": {
+    "education": "Post-secondary education preferred",
+    "experience": "Minimum 2 years in recruitment, preferably in transportation or driver hiring",
+    "languages": "English"
+  },
+  "job_details": {
+    "location": "Calgary, AB T2C 2Y8",
+    "salary": "Competitive salary based on experience",
+    "hours_per_week": 40,
+    "job_type": "Full-time, Permanent",
+    "shift": "Monday to Friday, 8:00 AM – 5:00 PM (occasional irregular hours)",
+    "start_date": "As soon as possible",
+    "vacancies": 1,
+    "responsibilities": [
+      "Develop and implement strategic driver recruiting plans",
+      "Interview, test, and refer qualified applicants for driving positions",
+      "Evaluate applicant suitability through thorough personal interviews and documentation review",
+      "Ensure recruiter accountability and monitor recruitment results",
+      "Provide leadership, coaching, and tactical guidance to improve team performance",
+      "Maintain compliance with D.O.T. regulations and company hiring standards",
+      "Coordinate driver annual reviews, license renewals, and medical checks",
+      "Manage multiple recruitment tasks and meet hiring deadlines",
+      "Maintain constructive working relationships with industry partners"
+    ],
+    "preferred_skills": [
+      "Strong communication and interpersonal skills",
+      "Proficiency in Microsoft Office and general computer systems",
+      "Knowledge of D.O.T. regulations and driver compliance requirements",
+      "Ability to manage and prioritize multiple recruitment tasks",
+      "Experience in interviewing and hiring professional drivers",
+      "Access to a reliable vehicle for recruitment activities"
+    ],
+    "work_environment": [
+      "Office-based role with occasional field work",
+      "Fast-paced recruitment environment in transportation industry",
+      "Collaborative team atmosphere"
+    ]
+  },
+  "health_benefits": [
+    "Dental care",
+    "Extended medical coverage"
+  ],
+  "how_to_apply": {
+    "required_documents": ["Resume", "Cover letter"],
+    "screening_questions": [
+      "Do you have at least 2 years of experience in recruitment?",
+      "Are you familiar with D.O.T. regulations?",
+      "Do you have experience hiring professional drivers?",
+      "Do you have access to a reliable vehicle?",
+      "Are you legally eligible to work in Canada?"
+    ],
+    "apply_link": "Apply directly via iHaul Freight Ltd career page or job posting platform"
+  }
+},
+{
+  "job_title": "Truck Dispatcher",
+  "company": "Kingpin Carrier Inc",
+  "overview": {
+    "education": "Secondary (high) school graduation certificate",
+    "experience": "1 year to less than 2 years",
+    "languages": "English"
+  },
+  "job_details": {
+    "location": "Airdrie, AB T4B 1C3",
+    "salary": "$36.50 per hour",
+    "hours_per_week": 35,
+    "job_type": "Full-time, Permanent",
+    "shift": "Monday to Friday (may vary based on dispatch needs)",
+    "start_date": "As soon as possible",
+    "vacancies": 1,
+    "responsibilities": [
+      "Monitor personnel workloads and locations",
+      "Perform general office duties related to dispatching operations",
+      "Advise vehicle operators of traffic conditions, road closures, and other potential problems",
+      "Assist with maintenance and operation of communications equipment",
+      "Dispatch drivers and vehicles according to schedules and work orders",
+      "Ensure compliance with highway trucking rules and regulations",
+      "Maintain vehicle operator work records and trip documentation",
+      "Respond to urgent or emergency calls requiring immediate coordination or assistance",
+      "Schedule and coordinate assignments of drivers, crews, and equipment"
+    ],
+    "preferred_skills": [
+      "Strong organizational and multitasking abilities",
+      "Excellent communication and problem-solving skills",
+      "Knowledge of trucking regulations and highway safety standards",
+      "Ability to work under pressure and handle multiple tasks simultaneously",
+      "Proficiency with dispatch software and general computer systems",
+      "Attention to detail and accuracy in record keeping"
+    ],
+    "work_environment": [
+      "Office-based role within a transportation and logistics setting",
+      "Fast-paced dispatch environment requiring quick decision-making",
+      "Collaborative team with direct communication to drivers and operations staff"
+    ]
+  },
+  "health_benefits": [],
+  "how_to_apply": {
+    "required_documents": ["Resume", "Cover letter"],
+    "screening_questions": [
+      "Do you have at least 1 year of experience as a dispatcher or in a related role?",
+      "Are you familiar with highway trucking rules and regulations?",
+      "Are you comfortable working in a fast-paced dispatch environment?",
+      "Are you legally eligible to work in Canada?"
+    ],
+    "apply_link": "Apply directly via Kingpin Carrier Inc career page or job posting platform"
+  }
+},
+{
+  "job_title": "Local Truck Driver",
+  "company": "Ironhorse Truck Transfer Corp",
+  "overview": {
+    "education": "Not specified (High school diploma preferred)",
+    "experience": "Experience in commercial driving required",
+    "licenses": "Valid Class 3Q License (Class 1 preferred)",
+    "languages": "English"
+  },
+  "job_details": {
+    "location": "Calgary, AB",
+    "salary": "$20.00 per hour",
+    "hours_per_week": "Varies based on dispatch (part-time/casual)",
+    "job_type": "Part-time, Casual",
+    "shift": "Variable schedule based on customer needs; occasional short-notice calls",
+    "start_date": "As soon as possible",
+    "vacancies": 1,
+    "responsibilities": [
+      "Operate commercial vehicles safely within Calgary and surrounding areas",
+      "Perform local pickups, deliveries, and transfers between customer locations and airports",
+      "Assist other drivers by transporting them to and from customer sites or home locations",
+      "Conduct occasional out-of-city trips as required by customer requests",
+      "Ensure proper handling and inspection of company vehicles before and after trips",
+      "Maintain accurate logs and uphold company and transportation safety standards",
+      "Demonstrate proficiency with both automatic and manual transmission vehicles",
+      "Drive safely in varying weather conditions, including winter driving"
+    ],
+    "preferred_skills": [
+      "Strong commercial driving skills with manual transmission proficiency",
+      "Good communication and customer service abilities",
+      "Knowledge of Calgary roadways and Alberta driving conditions",
+      "Ability to work independently and respond flexibly to short-notice requests",
+      "Reliable and punctual work ethic",
+      "Clean 5-year commercial driver’s abstract"
+    ],
+    "work_environment": [
+      "Primarily local driving within Calgary and nearby regions",
+      "Occasional intercity trips as required",
+      "Casual and supportive team atmosphere",
+      "Outdoor work in various weather conditions"
+    ]
+  },
+  "health_benefits": [
+    "Casual dress"
+  ],
+  "how_to_apply": {
+    "required_documents": ["Resume", "Driver’s abstract"],
+    "screening_questions": [
+      "Do you hold a valid Class 3Q or Class 1 driver’s license?",
+      "Do you have experience in commercial driving?",
+      "Are you comfortable operating manual transmission vehicles?",
+      "Are you located near Calgary, AB?",
+      "Are you legally eligible to work in Canada?"
+    ],
+    "apply_link": "Apply directly via Ironhorse Truck Transfer Corp career page or job posting platform"
+  }
+},
+{
+  "job_title": "Driver",
+  "company": "Calmont Group",
+  "overview": {
+    "education": "High school diploma or equivalent",
+    "experience": "Minimum 1 year of driving experience",
+    "licenses": "Valid Class 3 Licence (Class 1 considered an asset)",
+    "languages": "English"
+  },
+  "job_details": {
+    "location": "5475 53 Street SE, Calgary, AB T2C 4P6",
+    "salary": "Competitive compensation based on experience",
+    "hours_per_week": 40,
+    "job_type": "Full-time, Permanent",
+    "shift": "Monday to Friday (occasional additional hours as required)",
+    "start_date": "As soon as possible",
+    "vacancies": 1,
+    "responsibilities": [
+      "Safely transport vehicles to and from various locations across Alberta",
+      "Follow established routes, schedules, and company procedures",
+      "Perform pre-trip and post-trip vehicle inspections",
+      "Organize and receive new units from the factory",
+      "Handle drop-offs and pickups of large trucks and equipment",
+      "Shuttle and fuel Class 8 trucks as needed",
+      "Conduct final delivery check-overs to ensure vehicle readiness",
+      "Adhere to traffic laws, safety protocols, and defensive driving practices",
+      "Occasionally lift up to 50 lbs for handling tow products or equipment"
+    ],
+    "preferred_skills": [
+      "Strong knowledge of traffic laws and safe driving practices",
+      "Good communication and teamwork abilities",
+      "Attention to detail and strong organizational skills",
+      "Ability to work independently and manage time efficiently",
+      "Self-starter with a positive attitude and strong work ethic",
+      "Physically capable of lifting and handling up to 50 lbs"
+    ],
+    "work_environment": [
+      "In-person role at Calmont Volvo Truck Centre in Calgary, AB",
+      "Fast-paced transportation and logistics setting",
+      "Collaborative and supportive team culture",
+      "Combination of indoor and outdoor work environments"
+    ]
+  },
+  "health_benefits": [
+    "Dental care",
+    "Extended health care",
+    "Vision care",
+    "Life insurance",
+    "Disability insurance",
+    "Employee assistance program",
+    "RRSP match",
+    "On-site parking",
+    "Company events"
+  ],
+  "how_to_apply": {
+    "required_documents": ["Resume", "Cover letter", "Driver’s abstract"],
+    "screening_questions": [
+      "Are you currently residing in Canada?",
+      "How many years of experience do you have in a similar driving role?",
+      "What interests you in this role with Calmont Group?",
+      "What are your wage expectations for this position?",
+      "Are you currently employed? How much notice would you need to provide?",
+      "If you could provide 3 work qualities about yourself, what would they be?",
+      "Can you provide 3 work-related references if selected for this role?",
+      "Do you hold a valid Class 3 or Class 1 driver’s licence?"
+    ],
+    "apply_link": "Apply directly via Calmont Group career page or job posting platform"
+  }
+},
+{
+  "job_title": "5 Ton Truck Driver",
+  "company": "Last Minute Movers",
+  "overview": {
+    "education": "Secondary school diploma or equivalent (preferred)",
+    "experience": "Minimum 1 year of delivery or truck driving experience",
+    "licenses": "Valid Class G Licence (Commercial Driver’s Licence preferred)",
+    "languages": "English"
+  },
+  "job_details": {
+    "location": "Calgary, AB",
+    "salary": "$20.00–$22.00 per hour",
+    "hours_per_week": 40,
+    "job_type": "Full-time",
+    "shift": "Monday to Friday (occasional weekends as required)",
+    "start_date": "As soon as possible",
+    "vacancies": 1,
+    "responsibilities": [
+      "Safely operate a 5-ton commercial truck to transport goods and materials to designated locations",
+      "Load and unload cargo manually or using forklifts and other equipment as needed",
+      "Follow all provincial traffic laws and safety regulations while driving",
+      "Inspect trucks for mechanical issues and perform basic maintenance checks (oil, tires, brakes, etc.)",
+      "Maintain accurate delivery records, mileage logs, and fuel usage reports",
+      "Provide excellent customer service by communicating effectively and professionally with clients",
+      "Ensure adherence to company policies, safety standards, and delivery procedures",
+      "Assist with warehouse operations when required"
+    ],
+    "preferred_skills": [
+      "Strong knowledge of safe driving and cargo handling practices",
+      "Experience operating forklifts or similar equipment",
+      "Excellent communication and customer service skills",
+      "Ability to perform heavy lifting and physically demanding work",
+      "Good organizational and time management skills",
+      "Clean driving record and reliable work ethic"
+    ],
+    "work_environment": [
+      "In-person, local driving within Calgary and nearby areas",
+      "Physical, hands-on work involving lifting and loading",
+      "Collaborative team environment with customer interaction",
+      "Occasional exposure to various weather conditions"
+    ]
+  },
+  "health_benefits": [
+    "On-site parking"
+  ],
+  "how_to_apply": {
+    "required_documents": ["Resume"],
+    "screening_questions": [
+      "Do you have at least 1 year of experience in truck or delivery driving?",
+      "Do you hold a valid Class G Licence?",
+      "Are you comfortable performing heavy lifting and moving cargo?",
+      "Are you located near Calgary, AB?",
+      "Are you legally eligible to work in Canada?"
+    ],
+    "apply_link": "Apply directly via Last Minute Movers career page or job posting platform"
+  }
+},
+{
+  "job_title": "City Truck Driver",
+  "company": "Xpresshaul Transport Inc.",
+  "overview": {
+    "education": "Not specified (High school diploma preferred)",
+    "experience": "Minimum 1 year of truck driving experience",
+    "licenses": "Valid Manual Class 1 Driver’s Licence (required)",
+    "languages": "English"
+  },
+  "job_details": {
+    "location": "Calgary, AB",
+    "salary": "Competitive pay based on experience",
+    "hours_per_week": "Varies depending on schedule (part-time or full-time)",
+    "job_type": "Full-time, Part-time, Permanent",
+    "shift": "Flexible schedule, primarily day runs within Calgary",
+    "start_date": "As soon as possible",
+    "vacancies": 1,
+    "responsibilities": [
+      "Operate manual Class 1 trucks safely within the city of Calgary",
+      "Transport freight efficiently and on schedule between local destinations",
+      "Inspect trucks and report any maintenance or safety concerns",
+      "Ensure compliance with all traffic and safety regulations",
+      "Communicate effectively with dispatch and customers regarding deliveries",
+      "Handle freight loading and unloading when required",
+      "Maintain accurate trip logs and driving records"
+    ],
+    "preferred_skills": [
+      "Strong driving and vehicle handling skills (manual transmission)",
+      "Knowledge of freight handling and city delivery routes",
+      "Excellent communication and teamwork abilities",
+      "Good time management and organizational skills",
+      "Clean driving record and attention to safety standards",
+      "Ability to operate forklifts and other material-handling equipment (asset)"
+    ],
+    "work_environment": [
+      "Local city runs within Calgary",
+      "In-person driving role with frequent vehicle operation",
+      "Supportive and safety-focused team environment",
+      "Flexible work schedule options"
+    ]
+  },
+  "health_benefits": [
+    "Flexible schedule",
+    "Life insurance"
+  ],
+  "how_to_apply": {
+    "required_documents": ["Resume"],
+    "screening_questions": [
+      "Do you have a valid Manual Class 1 Driver’s Licence?",
+      "Do you have at least 1 year of truck driving experience?",
+      "Do you have a clean driving record?",
+      "Are you comfortable working flexible hours?",
+      "Are you legally eligible to work in Canada?"
+    ],
+    "apply_link": "Send your resume to info@xpresshaul.ca or apply via job posting platform"
+  }
+},
+{
+  "job_title": "Collections Truck Driver - Class 3",
+  "company": "Blu Planet Recycling Inc.",
+  "overview": {
+    "education": "Not specified (High school diploma preferred)",
+    "experience": "Minimum 3 years of commercial driving experience with Class 3 vehicles",
+    "licenses": "Valid Class 3 Driver’s Licence with Air Brake (Q) Endorsement",
+    "languages": "English"
+  },
+  "job_details": {
+    "location": "Calgary, AB",
+    "salary": "$26.50–$28.00 per hour (based on experience)",
+    "hours_per_week": 40,
+    "job_type": "Full-time, Permanent",
+    "shift": "Regular weekday schedule; may include early mornings or occasional overtime",
+    "start_date": "As soon as possible",
+    "vacancies": 1,
+    "responsibilities": [
+      "Operate Class 3 trucks safely and efficiently on industrial and city routes",
+      "Transport, load, and unload large open-top and compactor containers to and from recycling facilities, customer locations, and disposal sites",
+      "Perform accurate backing maneuvers and safe container placement in diverse environments",
+      "Conduct daily pre-trip and post-trip inspections to ensure vehicle safety and compliance",
+      "Use mobile routing and reporting software for real-time job tracking",
+      "Communicate effectively with dispatch and operations teams about site issues or route updates",
+      "Maintain cleanliness and organization of truck and client sites",
+      "Assist with yard and shop duties as needed",
+      "Follow all company and safety policies to ensure a safe work environment"
+    ],
+    "preferred_skills": [
+      "Strong knowledge of safe driving practices and transportation regulations",
+      "Proficiency with mobile routing and GPS applications",
+      "Ability to perform physically demanding tasks (lifting up to 75 lbs)",
+      "Good communication and teamwork skills",
+      "Attention to detail and strong time management",
+      "Basic knowledge of truck maintenance (asset)"
+    ],
+    "work_environment": [
+      "On-the-road driving role within Calgary and surrounding industrial areas",
+      "Fast-paced recycling and waste management setting",
+      "Collaborative and safety-focused team culture",
+      "Combination of outdoor and vehicle-based work"
+    ]
+  },
+  "health_benefits": [
+    "Dental care",
+    "Extended health care",
+    "Vision care",
+    "Paid time off",
+    "Paid vacation",
+    "Profit sharing",
+    "On-site gym",
+    "Casual dress",
+    "Company events"
+  ],
+  "how_to_apply": {
+    "required_documents": ["Resume"],
+    "screening_questions": [
+      "Do you hold a valid Class 3 Driver’s Licence with Air Brake (Q) endorsement?",
+      "Do you have at least 3 years of commercial driving experience?",
+      "Do you have a clean commercial driver’s abstract?",
+      "Are you physically able to lift up to 75 lbs?",
+      "Are you legally eligible to work in Canada?"
+    ],
+    "apply_link": "Apply directly via Blu Planet Recycling Inc. career page or job posting platform"
+  }
 }
 
 ]
