@@ -10,11 +10,13 @@ const Footer = () => {
           {/* Logo & Description */}
           <div>
             <h2 className="text-3xl font-bold mb-3">
-              <span className="text-purple-500">Worldwide</span> Placement Services
+              <span className="text-purple-500">Worldwide</span> Placement
+              Services
             </h2>
             <p className="text-sm text-gray-300">
               We have rapidly grown into a trusted partner for organizations
-              seeking talent solutions, workforce optimization, and strategic staffing.
+              seeking talent solutions, workforce optimization, and strategic
+              staffing.
             </p>
           </div>
 
@@ -33,12 +35,26 @@ const Footer = () => {
                 </Link>
               </li>
               <li>
-                <Link to="/services" className="hover:text-purple-600 transition">
+                <Link
+                  to="/services"
+                  className="hover:text-purple-600 transition"
+                >
                   Services
                 </Link>
               </li>
               <li>
-                <Link to="/contact" className="hover:text-purple-600 transition">
+                <Link
+                  to="/careers"
+                  className="hover:text-purple-600 transition"
+                >
+                  Careers
+                </Link>
+              </li>
+              <li>
+                <Link
+                  to="/contact"
+                  className="hover:text-purple-600 transition"
+                >
                   Contact Us
                 </Link>
               </li>
@@ -80,8 +96,6 @@ const Footer = () => {
                 Subscribe
               </button>
             </form>
-
-           
           </div>
         </div>
 
